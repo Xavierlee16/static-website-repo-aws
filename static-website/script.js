@@ -1,0 +1,1 @@
+console.log("Static site deployed with CodePipeline!");
